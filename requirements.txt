@@ -3,3 +3,4 @@ Flask-Migrate
 SQLAlchemy
 Flask
 gunicorn
+PyMySQL

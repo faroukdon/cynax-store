@@ -9,5 +9,6 @@ DEBUG = True# Connect to the database
 
 SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://sql11496228:fQvMfR2mG8@sql11.freesqldatabase.com/sql11496228'# Turn off the Flask-SQLAlchemy event system and warning
 
+
 # app.config['SQLALCHEMY_DATABASE_URI'] = "mysql+pymysql://root:root@localhost/myDbName"
 SQLALCHEMY_TRACK_MODIFICATIONS = False

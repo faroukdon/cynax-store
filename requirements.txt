@@ -72,15 +72,9 @@ requests-kerberos==0.12.0
 requests-ntlm==1.1.0
 requests-toolbelt==0.9.1
 requests-unixsocket==0.2.0
-SecretStorage==2.3.1
-selinux==3.0
 setproctitle==1.1.10
 simplejson==3.16.0
-sip==4.19.21
-six==1.12.0
-smartsheet-python-sdk==2.105.1
-soupsieve==2.3.1
+
 SQLAlchemy==1.3.23
-ssh-import-id==5.10
-systemd-python==234
+
 
